@@ -1,11 +1,33 @@
-<div align="center">
+# N.JEY - Future
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Aplicação web focada em análise de dados, visão computacional e automação, desenvolvida com React, Vite e Tailwind CSS.
 
-  <h1>Built with AI Studio</h2>
+## Instalação e Execução
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Este projeto está pronto para ser implantado no Coolify via Dockerfile. 
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Para rodar localmente:
 
-</div>
+1. Instale as dependências:
+```bash
+npm install
+```
+
+2. Execute o servidor de desenvolvimento:
+```bash
+npm run dev
+```
+
+3. Para criar a versão de produção (build):
+```bash
+npm run build
+```
+
+## Tecnologias
+- React
+- Vite
+- Tailwind CSS
+- Docker
+
+## Licença
+Todos os direitos reservados.
